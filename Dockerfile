@@ -11,4 +11,4 @@ RUN go build -o /app
 
 EXPOSE 8080
 
-CMD [ "/app" , "-p=8080"]
+CMD [ "/app"]
